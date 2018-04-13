@@ -1,4 +1,4 @@
-$name = "Oleh Dutsiak"
+$name = "Bohdanka"
 $daylight = 9;
 $evening = 18;
 $night = 22;
